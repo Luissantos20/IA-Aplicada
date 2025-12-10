@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2025-12-09 11:46:57",
+        "pergunta": "Explique o que é um modelo de linguagem",
+        "resposta": "Um modelo de linguagem é uma ferramenta de inteligência artificial projetada para entender, gerar e manipular linguagem humana. Ele é treinado em grandes conjuntos de dados textuais e utiliza algoritmos de aprendizado de máquina para prever a probabilidade de uma sequência de palavras, ou seja, como uma palavra pode aparecer em um contexto específico.\n\nOs modelos de linguagem são capazes de realizar diversas tarefas, como:\n\n1. **Geração de Texto**: Criar novos textos que sejam coerentes e contextualmente relevantes.\n2. **Tradução**: Converter texto de um idioma para outro.\n3. **Respostas a Perguntas**: Fornecer respostas a perguntas feitas em linguagem natural.\n4. **Análise de Sentimentos**: Identificar o sentimento (positivo, negativo, neutro) expresso em um texto.\n5. **Resumo de Texto**: Produzir resumos concisos a partir de textos mais longos.\n\nOs modelos de linguagem podem ser baseados em diferentes arquiteturas, sendo as mais conhecidas as redes neurais recorrentes (RNNs), as redes transformadoras (Transformers) e, mais recentemente, os modelos de pré-treinamento como o GPT (Generative Pre-trained Transformer).\n\nEsses modelos têm várias aplicações práticas em assistentes virtuais, chatbots, sistemas de recomendação, ferramentas de escrita e muito mais, ajudando a facilitar a interação entre humanos e máquinas.",
+        "model": "gpt-4o-mini",
+        "temperature": 0.7,
+        "max_tokens": 300,
+        "response_time": "10.13s"
+    }
+]
